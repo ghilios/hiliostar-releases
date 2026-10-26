@@ -1,0 +1,14 @@
+{
+  "version": "2026.1",
+  "built": "2026-10-26",
+  "years": "2006-2025",
+  "resDeg": 0.5,
+  "creditYear": 2026,
+  "format": 1,
+  "asset": {
+    "url": "https://github.com/ghilios/hiliostar-releases/releases/download/climate-v2026.1/hiliostar-climate-2026.1.bin.gz",
+    "size": 5405858,
+    "sha256": "f2a86c44376377ef34a26fbb3625ade25fd8b01c62ffd5829724650149ff3b88"
+  },
+  "uncompressedSize": 11441284
+}
